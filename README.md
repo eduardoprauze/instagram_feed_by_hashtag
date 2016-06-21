@@ -1,6 +1,8 @@
 # InstagramFeedByHashtag
 
-Thank you for downloading Instagram feed by hashtag Gem!
+This is an unofficial Instagram feed by hashtag ruby gem!
+
+This gem provides an easy way to retrieve a JSON from Instagram, filtered by hashtag, without any authentication.
 
 ## Installation
 
